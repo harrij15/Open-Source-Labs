@@ -20,7 +20,7 @@ Problem 3:
 ![Alt text](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem3.png)
 
 Problem 4:
-![Alt text](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem4.png)
+![Alt text](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem4_1.png)
 
 Problem 5:
 ![Alt text](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem5.png)
