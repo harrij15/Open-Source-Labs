@@ -11,25 +11,25 @@
 
 #Screenshots for Regex:
 
-Problem 1:
+###Problem 1:
 ![Problem 1](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/2969fea36c93a796d5ecc38237bad09febba6f42/problem1.png)
 
-Problem 2:
+###Problem 2:
 ![Problem 2](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem2.jpg)
 
-Problem 3:
+###Problem 3:
 ![Problem 3](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem3.png)
 
-Problem 4:
+###Problem 4:
 ![Problem 4](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem4_1.png)
 
-Problem 5:
+###Problem 5:
 ![Problem 5](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem5.png)
 
-Problem 6:
+###Problem 6:
 ![Problem 6](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem6.png)
 
-Problem 7:
+###Problem 7:
 ![Problem 7](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem7.png)
 
 #Blockly Screenshot
