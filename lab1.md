@@ -11,22 +11,22 @@ Two suggestions for ways to answer questions in a helpful way would be:
 Screenshots for Regex:
 
 Problem 1:
-![Alt text](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/2969fea36c93a796d5ecc38237bad09febba6f42/problem1.png)
+![Problem 1](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/2969fea36c93a796d5ecc38237bad09febba6f42/problem1.png)
 
 Problem 2:
-![Alt text](blob:https%3A//drive.google.com/4f662106-71f0-460b-bfd4-4ae47c81e25b)
+
 
 Problem 3:
-![Alt text](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem3.png)
+![Problem 3](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem3.png)
 
 Problem 4:
-![Alt text](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem4_1.png)
+![Problem 4](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem4_1.png)
 
 Problem 5:
-![Alt text](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem5.png)
+![Problem 5](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem5.png)
 
 Problem 6:
-![Alt text](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem6.png)
+![Problem 6](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem6.png)
 
 Problem 7:
-![Alt text](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem7.png)
+![Problem 7](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem7.png)
