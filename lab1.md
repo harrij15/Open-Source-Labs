@@ -14,7 +14,7 @@ Problem 1:
 ![Alt text](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/2969fea36c93a796d5ecc38237bad09febba6f42/problem1.png)
 
 Problem 2:
-![Alt text](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem2.png)
+![Alt text](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem2.jpg)
 
 Problem 3:
 ![Alt text](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem3.png)
