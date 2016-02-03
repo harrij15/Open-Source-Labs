@@ -43,3 +43,5 @@
 #Directory Screenshot
 
 ![Tree](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/tree.png)
+
+  After forming a group for this project, my group focused on finding a project that would be possible to finish by the end of the semester, so we knew that it wouldn't have to be something too big. We based our idea off of previous ideas for this class, and have decided to expand on a current open source Google Chrome extension. The group has decided to add new features to the existing code of the dinosaur game that appears when Google Chrome tries to access a webpage without an Internet connection. Since the code is in Javascript, we will be using that for a language.
