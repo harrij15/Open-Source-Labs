@@ -50,6 +50,6 @@
  
   One idea of mine would be to make an app that would hopefully prevent or at least reduce the number of students that may be walking home alone late at night from parties or other events, whether it is by connecting them with trusted student drivers or other walkers that happen to also be going the same way. There is a safety concern that would need to addressed (regarding the students being connected), but that problem can be addressed later. Hopefully, this can reduce the number of criminal acts on students walking alone at night.
   
-  Another idea of mine would be a simple app that is synced to the alarm (or has its own alarm) in order to remind the user about the day's activities, since it is often hard to recall everything you need to do for the day when you wake up in the morning. This is probably more likely to be finished by the end of the semester, though it is still in question.
+  Another idea would be a simple app that is synced to the alarm (or has its own alarm) in order to remind the user about the day's activities, since it is often hard to recall everything you need to do for the day when you wake up in the morning. This is probably more likely to be finished by the end of the semester, though it is still in question.
   
   If all else fails, working on a Google Chrome extension or enhancing an existing open source project would be favorable.
