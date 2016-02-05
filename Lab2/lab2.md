@@ -12,7 +12,7 @@ Yes, I agree with this claim. Gopher already made a huge mistake by not releasin
 
 ##Can you justify why such a license is chosen (Justify for ONE is enough). Instead of these four, you can look at any other software project and justify the license chosen for that project.
 
-Looking at the RCOS RPI Tours project, they used the MIT license. It would make sense to use this license, since it is a very open license and it would be a good idea to get all the help you can get from the GitHub community (especially when doing a project in college). In order to maximize the number of users that could potentially help, you would get a license that would attract the most, i.e. the one with the least restrictions.
+Looking at the Microsoft .Net Core project, they used the MIT license. It would make sense to use this license, since it is a very open license and they seem to be very open to letting other users contribute to their code, as they have multiple documents designed to assist other users in both understanding their code and working with it. They even have a Developer Guide for potential contributors, so it is safe to assume that they are open to assistance from other users. If you want more coders to help you with your project, it would make sense to give them as much reign over how they use the code as possible.
 
 ##Which license is better?
 
