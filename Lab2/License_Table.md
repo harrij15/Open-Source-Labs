@@ -4,3 +4,4 @@
 | [FindExtend](https://github.com/monroj/FindExtend)      | Yes      |   Apache 2.0 |
 | [HWserver](https://github.com/RCOS-Grading-Server/HWserver/blob/master/LICENSE.md) | Yes      |    BSD |
 | [SplitScreen](https://github.com/tassiahmed/SplitScreen/blob/master/LICENSE) | Yes | Apache 2.0
+| [MeNext](https://github.com/makinj/MeNext) | Yes | MIT
