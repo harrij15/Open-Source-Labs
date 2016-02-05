@@ -12,37 +12,37 @@
 #Screenshots for Regex:
 
 ###Problem 1:
-![Problem 1](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/2969fea36c93a796d5ecc38237bad09febba6f42/problem1.png)
+![Problem 1](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/Lab1/resources/problem1.png)
 
 ###Problem 2:
-![Problem 2](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem2.jpg)
+![Problem 2](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/Lab1/resources/problem2.jpg)
 
 ###Problem 3:
-![Problem 3](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem3.png)
+![Problem 3](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/Lab1/resources/problem3.png)
 
 ###Problem 4:
-![Problem 4](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem4_1.png)
+![Problem 4](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/Lab1/resources/problem4_1.png)
 
 ###Problem 5:
-![Problem 5](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem5.png)
+![Problem 5](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/Lab1/resources/problem5.png)
 
 ###Problem 6:
-![Problem 6](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem6.png)
+![Problem 6](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/Lab1/resources/problem6.png)
 
 ###Problem 7:
-![Problem 7](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/problem7.png)
+![Problem 7](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/Lab1/resources/problem7.png)
 
 #Blockly Screenshot
 
-![Blockly](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/blockly.jpg)
+![Blockly](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/Lab1/resources/blockly.jpg)
 
 #Crossword Screenshot 
 
-![Crossword](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/crossword.jpg)
+![Crossword](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/Lab1/resources/crossword.jpg)
 
 #Directory Screenshot
 
-![Tree](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/tree.png)
+![Tree](https://raw.githubusercontent.com/harrij15/Open-Source-Labs/master/Lab1/resources/tree.png)
 
 #Project Reflection
 
