@@ -16,11 +16,10 @@ Looking at the Microsoft .Net Core project, they used the MIT license. It would 
 
 ##Which license is better?
 
-For a developer, the Apache/BSD licenses are better, since you have more free reign over the code that you use from another project. Instead of dealing with the requirement that you must use a GPL or LGPL license (based on what you do with the code and whether that code is licensed under GPL or LGPL), all the developer will have to do is make sure to refer to the original developer's trademark.
+For a developer, it is better to use the LGPL license, because it holds similar restrictions to the GPL, but it is not as limited. It is still possible to change the code and to keep the source code as long as you avoid redistributing the modified version to a third party.
 
-For a company, it is also better to use the Apache/BSD licenses, since there are less restrictions for the users that want to contribute to the project and the users need to use the company's trademark if they decide to redistribute the code, so it is somewhat like advertising the original company through open source.
+For a company, it is better to use the BSD license, because they can use someone else's code, modify it, and release it for their own products without the requirement of releasing their own version of the code. This means that they are able to make their own products and profit from the modified code that they can claim to be their own.
 
-For the common good, 
+For the common good, it is better to use the GPL license, because the presence of that license prevents other users from taking your code and making millions off of it without giving you any credit. Also, if someone makes changes to the code, they need to post their source code to ensure that other users are able to use it.
 
-The Apache/BSD licenses are the better choice when compared to the GPL and LGPL licenses.  The GPL and LGPL licenses have requirements stating that anyone who wishes to use the code will have to implement the code in the same, corresponding license.  For example, if you want to use code from a repository that uses the GPL license, you must also use the GPL license. On the other hand, the Apache/BSD licenses do not require that you use the same license. Instead, the users can redistribute code without restriction. All of the licenses involved made it so that the user cannot sue the creator of the program if the laptop suddenly goes haywire after running the program, so that cancels out. The only other difference would be the fact that, if you use the Apache/BSD licenses, users that redistribute your code must use your trademark. This seems fair, since it's basically a reference to people who started everything when it comes to the project.
 
