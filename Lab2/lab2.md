@@ -18,7 +18,7 @@ Looking at the Microsoft .Net Core project, they used the MIT license. It would 
 
 For a developer, it is better to use the LGPL license, because it holds similar restrictions to the GPL, but it is not as limited. It is still possible to change the code and to keep the source code as long as you avoid redistributing the modified version to a third party.
 
-For a company, it is better to use the BSD license, because they can use someone else's code, modify it, and release it for their own products without the requirement of releasing their own version of the code. This means that they are able to make their own products and profit from the modified code that they can claim to be their own.
+For a company, it is better to use the Apache/BSD license, because they can use someone else's code, modify it, and release it for their own products without the requirement of releasing their own version of the code. This means that they are able to make their own products and profit from the modified code that they can claim to be their own.
 
 For the common good, it is better to use the GPL license, because the presence of that license prevents other users from taking your code and making millions off of it without giving you any credit. Also, if someone makes changes to the code, they need to post their source code to ensure that other users are able to use it.
 
