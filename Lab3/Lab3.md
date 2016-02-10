@@ -1,1 +1,1 @@
-Repository link: [Repo](https://github.com/harrij15/Exercise01)
+[Link to my repository](https://github.com/harrij15/Exercise01)
