@@ -22,6 +22,8 @@ For a company, it is better to use the Apache/BSD license, because they can use 
 
 For the common good, it is better to use the GPL license, because the presence of that license prevents other users from taking your code and making millions off of it without giving you any credit. Also, if someone makes changes to the code, they need to post their source code to ensure that other users are able to use it.
 
+##License Table
+
 | Website        | License Present          | License |
 | :-------------: |:-------------:| :-----:|
 | [RPI Tours](https://github.com/wtg/RPI_Tours_iOS)            | Yes | MIT |
