@@ -14,6 +14,10 @@ Yes, I agree with this claim. Gopher already made a huge mistake by not releasin
 
 Looking at the Microsoft .Net Core project, they used the MIT license. It would make sense to use this license, since it is a very open license and they seem to be very open to letting other users contribute to their code, as they have multiple documents designed to assist other users in both understanding their code and working with it. They even have a Developer Guide for potential contributors, so it is safe to assume that they are open to assistance from other users. If you want more coders to help you with your project, it would make sense to give them as much reign over how they use the code as possible.
 
+##Example project
+
+An example project would be a grade calculator app centered on RPI. Since grade calculators are so widely used in the first place, using an MIT license would make sense. With an MIT license, users can modify the project as they see fit in order to have their own personalized versions of it.
+
 ##Which license is better?
 
 For a developer, it is better to use the LGPL license, because it holds similar restrictions to the GPL, but it is not as limited. It is still possible to change the code and to keep the source code as long as you avoid redistributing the modified version to a third party.
@@ -31,3 +35,7 @@ For the common good, it is better to use the GPL license, because the presence o
 | [HWserver](https://github.com/RCOS-Grading-Server/HWserver/blob/master/LICENSE.md) | Yes      |    BSD |
 | [SplitScreen](https://github.com/tassiahmed/SplitScreen/blob/master/LICENSE) | Yes | Apache 2.0
 | [MeNext](https://github.com/makinj/MeNext) | Yes | MIT
+
+##Choosing a project
+
+The audience and license of the project we choose will depend on whether we decide to create an entirely new project or if we decide to add to an existing open source project. If we add a new one, our audience will most likely those who use the same things as we do, so it may be anyone who uses a laptop or it can be centered on college students. If we add to an existing project, our audience will probably be the same as that of the original version. In terms of licensing, we would probably pick the MIT license so other coders will have the opportunity to add to our project that won't be close to its full potential by the end of the semester. Adding onto another project may yield the need to use a GPL license.
