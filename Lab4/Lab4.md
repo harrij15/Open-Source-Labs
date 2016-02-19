@@ -11,5 +11,4 @@ From this lab, I have learned the importance of good documentation for the code 
 ## First two diffs:
 ![First two](https://github.com/harrij15/Open-Source-Labs/blob/master/Lab4/firsttwodiffs.JPG)
 
-## Last diff:
 ![Last one](https://github.com/harrij15/Open-Source-Labs/blob/master/Lab4/lastdiff.JPG)
