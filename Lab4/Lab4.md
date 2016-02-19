@@ -7,3 +7,9 @@ The third thing we changed was "on screen" to "on-screen" in 5.2 of Terminology.
 It is important to maintain good documentation to make sure that any users will be motivated to use the code, and it will make it easier for them to understand it.
 
 From this lab, I have learned the importance of good documentation for the code that I create.
+
+## First two diffs:
+![First two](https://github.com/harrij15/Open-Source-Labs/blob/master/Lab4/firsttwodiffs.JPG)
+
+## Last diff:
+![Last one](https://github.com/harrij15/Open-Source-Labs/blob/master/Lab4/lastdiff.JPG)
