@@ -13,9 +13,9 @@
 
 ![Step2](https://github.com/harrij15/Open-Source-Labs/blob/master/Lab5/Step2.png)
 
-![Step2CMakeLists](https://github.com/harrij15/Open-Source-Labs/blob/master/Lab5/Step2CMakeLists.png)
+![Step2CMakeLists](https://github.com/harrij15/Open-Source-Labs/blob/master/Lab5/step2CMakeLists.png)
 
-![Step2CMakeListsTop](https://github.com/harrij15/Open-Source-Labs/blob/master/Lab5/Step2cmakeliststoplevel.png)
+![Step2CMakeListsTop](https://github.com/harrij15/Open-Source-Labs/blob/master/Lab5/step2cmakeliststoplevel.png)
 
 ![Step2tutorial](https://github.com/harrij15/Open-Source-Labs/blob/master/Lab5/step2tutorial.png)
 
