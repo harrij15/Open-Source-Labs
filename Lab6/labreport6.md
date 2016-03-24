@@ -1,7 +1,7 @@
 
-![](https://github.com/harrij15/Lab6)
+![Lab 6](https://github.com/harrij15/Lab6)
 
-![](https://github.com/harrij15/markdown.py)
+![Markdown Fork](https://github.com/harrij15/markdown.py)
 
 ##Results:
 
