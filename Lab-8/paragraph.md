@@ -1,0 +1,1 @@
+Certain members of our group have begun researching how to set up the environment, since we apparently need a handful of programs in order to work with the RELAX code on GitHub. After that, we will be able to contribute to that code, and start implementing the new features, such as making the volume dynamic or modifiable to the user.
